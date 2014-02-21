@@ -1,6 +1,8 @@
 DOCKER-DESKTOP
 ==============
 
+[![Build Status](http://nuzli.com:1979/github.com/saidimu/docker-desktop/status.png?branch=master)](http://nuzli.com:1979/github.com/saidimu/docker-desktop)
+
 ##Description
 
 This Dockerfile creates a docker image and once it's executed it creates a container that runs X11 and SSH services.
